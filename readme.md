@@ -55,11 +55,19 @@ Through the approach above, we create the datasets at [baidu cloud link](https:/
 
 ![image](https://github.com/XingzhiZhou/DMC/blob/master/imgs/grid0.jpg) 
 
+label: [19, 39, 67, 81]
+
 ![image](https://github.com/XingzhiZhou/DMC/blob/master/imgs/grid1.jpg)
+
+label:  [29, 41, 30, 34]
 
 ![image](https://github.com/XingzhiZhou/DMC/blob/master/imgs/grid2.jpg)
 
+label: [0, 71, 76, 20]
+
 ![image](https://github.com/XingzhiZhou/DMC/blob/master/imgs/grid3.jpg)
+
+label: [11, 87, 83, 81]
 
 
 
